@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋 Meu nome é Sérgio Akira Sarui Junior e sou Desenvolvedor Full Stack, Brasil</h2>
+<h2 align="left">Olá 👋 Meu nome é Sérgio Akira Sarui Junior e sou Desenvolvedor Full Stack</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/sergiosaruijr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=sergiosaruijr&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo"  />
   </a>
